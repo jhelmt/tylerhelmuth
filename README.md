@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Tyler Helmuth
+layout: base
+title: ""
 ---
 
 # About
